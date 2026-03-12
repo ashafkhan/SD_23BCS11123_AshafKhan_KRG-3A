@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.3.0 Chrome/140.0.7339.249 Electron/38.7.2 Safari/537.36" version="29.3.0">
   <diagram name="Page-1" id="uDtA_NTuwfqOlN8mKpM3">
-    <mxGraphModel dx="3009" dy="-3087" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2015" dy="-3245" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -431,6 +431,9 @@
         </mxCell>
         <mxCell id="YQGtozBq0tei6saJny_j-25" edge="1" parent="1" source="lnZb_Nkdgmro_Vwt0bgn-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" target="lnZb_Nkdgmro_Vwt0bgn-82">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xREyiqqVGj39ZYgYop3K-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;div&gt;Q1 (Odd-UID).&lt;/div&gt;&lt;div&gt;Design an Online Learning Platform (similar to Coursera/Udemy) with the following services:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;User Login Service&lt;/div&gt;&lt;div&gt;Course Enrollment Service&lt;/div&gt;&lt;div&gt;Course Search Service&lt;/div&gt;&lt;div&gt;Video Lecture Streaming Service&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Optimize the platform using a CDC (Change Data Capture) Pipeline for tracking course progress and analytics.&lt;/div&gt;&lt;div&gt;Highlight where the Proxy Design Pattern can be used.&lt;/div&gt;&lt;div&gt;Use HLS or DASH streaming for adaptive video playback along with the manifest file.Use HLS or DASH streaming for adaptive video playback along with the manifest file.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="200" width="930" x="-462.52" y="4260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
